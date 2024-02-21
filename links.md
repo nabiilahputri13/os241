@@ -10,3 +10,6 @@ permalink: LINKS/
 * [What is a Hypervisor?](https://youtu.be/LMAEbB2a50M?si=xvK1IKFbDgSTGGbw) --- Further explanation of hypervisor
 <br>
 <hr>
+* [Bash in 100s](https://youtu.be/I4EWvMFj37g?si=-2_y3O173Clg7yP8) --- Giving me a better explanation of bash
+<br>
+<hr>
