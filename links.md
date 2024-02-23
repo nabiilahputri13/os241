@@ -13,3 +13,9 @@ permalink: LINKS/
 * [Bash in 100s](https://youtu.be/I4EWvMFj37g?si=-2_y3O173Clg7yP8) --- Giving me a better explanation of bash
 <br>
 <hr>
+* [How to Add Additional Hard Drive in VirtualBox](https://youtu.be/XmpFXe3Opws?si=c9SJ31agxH8paFPQ) --- Helps me doing week 3 assignment
+<br>
+<hr>
+* [How to Make Virtual Machines Talk to Each Other in VirtualBox](https://youtu.be/vReAkOq-59I?si=A04RiqN6sEhoqLsm) --- Haven't explained in class yet (probably) but I found this quite amusing
+<br>
+<hr>
