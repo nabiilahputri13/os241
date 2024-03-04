@@ -19,3 +19,12 @@ permalink: LINKS/
 * [How to Make Virtual Machines Talk to Each Other in VirtualBox](https://youtu.be/vReAkOq-59I?si=A04RiqN6sEhoqLsm) --- Haven't explained in class yet (probably) but I found this quite amusing
 <br>
 <hr>
+* [Part 1 | Introduction to Memory Management | OS | Operating systems Tutorials |](https://youtu.be/RhNWpUrO5MQ?si=qv4JR4-qw97YqKQK) --- Definitely helpful to understand more about this week (04) complex topic!
+<br>
+<hr>
+* [Part 2 | Address Binding | Linking |Loading |OS| Operating Systems tutorials |](https://youtu.be/40mrrsRJLYc?si=uDfFt20BB-z_ReBM) --- Part 2 of the video above
+<br>
+<hr>
+* [Part 5| First Fit | Worst Fit | Best Fit | Next Fit | Memory Allocation|Operating Systems tutorials|](https://youtu.be/7k0AwtRPWxQ?si=rTFyWs5LQOZjNVPM) --- I regret doing week 4 quiz without watching this beforehand
+<br>
+<hr>
