@@ -28,3 +28,9 @@ permalink: LINKS/
 * [Part 5| First Fit | Worst Fit | Best Fit | Next Fit | Memory Allocation|Operating Systems tutorials|](https://youtu.be/7k0AwtRPWxQ?si=rTFyWs5LQOZjNVPM) --- I regret doing week 4 quiz without watching this beforehand
 <br>
 <hr>
+* [How to backup and restore Virtualbox Machines?](https://youtu.be/HkGJr5BJg5g?si=sHqqVfU9gDto87cN) --- A tutorial on how to backup VM
+<br>
+<hr>
+* [Virtual Box : How to Increase Disk Size - Windows](https://youtu.be/7Aqx-VHv2_k?si=WISH7K0JHMPG28OJ) --- I think this video is quite related to week 5 assignment
+<br>
+<hr>
