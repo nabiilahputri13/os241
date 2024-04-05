@@ -34,3 +34,8 @@ permalink: LINKS/
 * [Virtual Box : How to Increase Disk Size - Windows](https://youtu.be/7Aqx-VHv2_k?si=WISH7K0JHMPG28OJ) --- I think this video is quite related to week 5 assignment
 <br>
 <hr>
+* [(PLAYLIST) Concurrency & Synchronization in Operating Systems](https://youtube.com/playlist?list=PL8tc66sMn9Kggk4zRPzcjXNUIDDnJKUnU&si=RNfx3pxQOv5UYzko) --- Essential playlist to learn week 6 topic
+<br>
+<hr>
+
+
