@@ -32,3 +32,8 @@ ZCZC W04 100 L02 Offline class
 ZCZC W05 5 L43 Reviewing links
 ZCZC W05 20 L09 Assignment Week 5
 ZCZC W05 40 L05 Doing week 5 popquiz
+
+ZCZC W06 5 L43 Reviewing links
+ZCZC W06 30 L09 Assignment Week 6
+ZCZC W06 60 L05 Doing week 6 popquiz
+ZCZC W06 4 L05 Doing week 6 quiz
