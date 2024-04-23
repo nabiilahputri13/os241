@@ -38,4 +38,8 @@ permalink: LINKS/
 <br>
 <hr>
 
+* [Semaphores](https://youtu.be/XDIOC2EY5JE?si=MNZF5j2PBvI2LQRD) --- Essential video to learn semaphore
+<br>
+<hr>
+
 
