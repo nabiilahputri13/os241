@@ -37,7 +37,6 @@ permalink: LINKS/
 * [(PLAYLIST) Concurrency & Synchronization in Operating Systems](https://youtube.com/playlist?list=PL8tc66sMn9Kggk4zRPzcjXNUIDDnJKUnU&si=RNfx3pxQOv5UYzko) --- Essential playlist to learn week 6 topic
 <br>
 <hr>
-
 * [Semaphores](https://youtu.be/XDIOC2EY5JE?si=MNZF5j2PBvI2LQRD) --- Essential video to learn semaphore
 <br>
 <hr>
