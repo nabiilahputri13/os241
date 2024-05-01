@@ -40,5 +40,8 @@ permalink: LINKS/
 * [Semaphores](https://youtu.be/XDIOC2EY5JE?si=MNZF5j2PBvI2LQRD) --- Essential video to learn semaphore
 <br>
 <hr>
+* [Semaphores](https://www.youtube.com/playlist?list=PLyc5xVO2uDsCKdz6-Ojah0o-ZTqGE7HEX) --- THIS PLAYLIST HELPS A LOT in doing week 08 exercise
+<br>
+<hr>
 
 
