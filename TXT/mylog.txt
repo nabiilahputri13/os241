@@ -42,3 +42,8 @@ ZCZC W07 5 L43 Reviewing links
 ZCZC W07 30 L09 Assignment Week 7
 ZCZC W07 60 L05 Doing week 7 popquiz
 ZCZC W07 4 L05 Doing week 7 quiz
+
+ZCZC W08 5 L43 Reviewing links
+ZCZC W08 200 L09 Assignment Week 8
+ZCZC W08 10 L05 Doing week 8 popquiz
+ZCZC W08 4 L05 Doing week 8 quiz
